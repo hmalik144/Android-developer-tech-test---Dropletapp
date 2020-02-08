@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Firebase_mobile_signin_app</string>
+
+    <string name="action_sign_in_phone">Sign in</string>
+    <string name="action_verify_phone">Sign in</string>
+    <string name="insert_number">Insert number with country code</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="verification_code">Insert Verification Code</string>
+    <string name="insert_first_name">Insert First name</string>
+    <string name="insert_last">Insert Last Name</string>
+    <string name="insert_email">Insert Email Address</string>
+    <string name="action_update">Update Profile</string>
+
+
+</resources>
